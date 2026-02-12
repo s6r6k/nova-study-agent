@@ -30,3 +30,6 @@ bin/
 
 # Environment variables
 .env.local
+
+node_modules
+
